@@ -1,0 +1,18 @@
+# 準備
+1. npmは先にインストールしておく
+
+    npm install bower
+
+	bowerってのはtwitterさんの作ったパッケージ管理ツール
+
+- component.jsonを書く
+
+	component.jsonはmavenにおけるpom.xmlにあたるもの
+
+	{
+		"name": "Flight Sample",
+		"version": "1.0.0",
+		"dependencies": {
+			"flight": "~1.0.0"
+		}
+	}

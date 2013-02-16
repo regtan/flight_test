@@ -1,0 +1,7 @@
+{
+    "name":"Flight Test",
+    "version":"1.0.0",
+    "dependencies":{
+        "flight":"~1.0.0"
+    }
+}
